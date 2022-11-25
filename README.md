@@ -1,2 +1,2 @@
-# Tongxinxiao.github.io
+# Blog
 Tongxin's blog
